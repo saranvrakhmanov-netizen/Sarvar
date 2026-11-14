@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HimLab" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/himlab_sky</item>
+        <item name="android:statusBarColor">@color/himlab_purple_dark</item>
+        <item name="android:navigationBarColor">@color/himlab_sky</item>
+    </style>
+</resources>
